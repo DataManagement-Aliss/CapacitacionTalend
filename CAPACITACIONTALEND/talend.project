@@ -4,11 +4,11 @@
     <migrationTask xmi:id="_SPIvoEJ-EfGIHcZALMGY3w" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_RqubAEJ-EfGoKYGt9nkoOA" login="edison.quispillo@trial.7w99mome4hhh3af.us.qlikcloud.com" firstName="Edison" lastName="Quispillo" type="DQ"/>
-  <TalendProperties:User xmi:id="_VyCOoEJ-EfGIHcZALMGY3w" login="lcarreyo@trial.7w99mome4hhh3af.us.qlikcloud.com" firstName="Luis" lastName="Carreyó" type="DQ"/>
-  <TalendProperties:User xmi:id="_RNYs0EKAEfGT8oFVpBgYbQ" login="dsalinas@trial.7w99mome4hhh3af.us.qlikcloud.com" firstName="Dalila" lastName="Salinas" type="DQ"/>
-  <TalendProperties:User xmi:id="_RNYs0UKAEfGT8oFVpBgYbQ" login="icampos@trial.7w99mome4hhh3af.us.qlikcloud.com" firstName="Iván" lastName="Campos" type="DQ"/>
-  <TalendProperties:User xmi:id="_RNYs0kKAEfGT8oFVpBgYbQ" login="kdelarosa@trial.7w99mome4hhh3af.us.qlikcloud.com" firstName="Ketzaliris" lastName="De La Rosa" type="DQ"/>
-  <TalendProperties:User xmi:id="_RNYs00KAEfGT8oFVpBgYbQ" login="luvasquez@trial.7w99mome4hhh3af.us.qlikcloud.com" firstName="Luisa" lastName="Vásquez" type="DQ"/>
-  <TalendProperties:User xmi:id="_RNYs1EKAEfGT8oFVpBgYbQ" login="mtivamosa@trial.7w99mome4hhh3af.us.qlikcloud.com" firstName="Miguel" lastName="Tivamosa" type="DQ"/>
-  <TalendProperties:User xmi:id="_RNYs1UKAEfGT8oFVpBgYbQ" login="alex.pazmino@trial.7w99mome4hhh3af.us.qlikcloud.com" firstName="Alex" lastName="Pazmiño" type="DQ"/>
+  <TalendProperties:User xmi:id="_3ghbIEKBEfGc1Pf3uasxDA" login="lcarreyo@trial.7w99mome4hhh3af.us.qlikcloud.com" firstName="Luis" lastName="Carreyó" type="DQ"/>
+  <TalendProperties:User xmi:id="_3ghbIUKBEfGc1Pf3uasxDA" login="dsalinas@trial.7w99mome4hhh3af.us.qlikcloud.com" firstName="Dalila" lastName="Salinas" type="DQ"/>
+  <TalendProperties:User xmi:id="_3ghbIkKBEfGc1Pf3uasxDA" login="icampos@trial.7w99mome4hhh3af.us.qlikcloud.com" firstName="Iván" lastName="Campos" type="DQ"/>
+  <TalendProperties:User xmi:id="_3ghbI0KBEfGc1Pf3uasxDA" login="kdelarosa@trial.7w99mome4hhh3af.us.qlikcloud.com" firstName="Ketzaliris" lastName="De La Rosa" type="DQ"/>
+  <TalendProperties:User xmi:id="_3ghbJEKBEfGc1Pf3uasxDA" login="luvasquez@trial.7w99mome4hhh3af.us.qlikcloud.com" firstName="Luisa" lastName="Vásquez" type="DQ"/>
+  <TalendProperties:User xmi:id="_3ghbJUKBEfGc1Pf3uasxDA" login="mtivamosa@trial.7w99mome4hhh3af.us.qlikcloud.com" firstName="Miguel" lastName="Tivamosa" type="DQ"/>
+  <TalendProperties:User xmi:id="_3ghbJkKBEfGc1Pf3uasxDA" login="alex.pazmino@trial.7w99mome4hhh3af.us.qlikcloud.com" firstName="Alex" lastName="Pazmiño" type="DQ"/>
 </xmi:XMI>
